@@ -1,11 +1,11 @@
 # lara-laskupohja
-Lara laskupohja on yksinkertainen laskupohja vapaalle LibreOffice toimisto-ohjelmistolle, suunniteltu pienyritysten ja yhdistysten vähäiseen laskutustarpeeseen, sisältää laskupohjan ja tuoteluettelon.
+Lara laskupohja on yksinkertainen laskupohja vapaalle LibreOffice ja OpenOffice toimisto-ohjelmistolle, suunniteltu pienyritysten ja yhdistysten vähäiseen laskutustarpeeseen, sisältää laskupohjan ja tuoteluettelon.
 
 Päätekijä	
-Rane Ahonen	Projektivastaava, laskupohja
+Rane Ahonen		Projektivastaava, laskupohja
 	
 Avustamassa	
-Tuomas Lähteenmäki	Ominaisuus: Jos maksuehdot on nolla niin eräpäivä on heti
+Tuomas Lähteenmäki	Ominaisuudet: Jos maksuehdot on nolla niin eräpäivä on heti
 
 
 
